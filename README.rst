@@ -10,9 +10,10 @@ Contents
 :``README.pdf``:           this file as PDF
 :``intro.rst``:            introductory slides (`rendered as HTML on GitHub <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
 :``intro.pdf``:            introductory slides as PDF
-:``python.ipynb``:         introduction to python language (`rendered as HTML on nbviewer <XXX>`_)
+:``intro.ipynb``:          general introduction (small quiz)
+:``python.ipynb``:         introduction to python language
 :``serial.ipynb``:         small serial interface acquisition 
-:``shakespear.ipynb``:     example of string manipulation (`rendered as HTML on nbviewer <XXX>`_)
+:``shakespear.ipynb``:     example of string manipulation
 :``abstract.rst``:         abstract for the tutorial (`rendered as HTML on GitHub <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
 :``abstract.pdf``:         abstract for the tutorial as PDF
 :``intro_src/``:           build directory for the introductory slides
