@@ -1,0 +1,550 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 240.4223
+ 632.7736
+ 371.5823
+ 644.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 426.0253
+ 602.7736
+ 525.4836
+ 614.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 590.7736
+ 193.7423
+ 602.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 298.8123
+ 575.7736
+ 438.8623
+ 587.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 298.8123
+ 560.7736
+ 438.8623
+ 572.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 259.3323
+ 545.7736
+ 390.4923
+ 557.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://creativecommons.org/licenses/by/3.0/us/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 437.7736
+ 373.5629
+ 449.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Contents 19 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 18 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R13': class PDFCatalog 
+13 0 obj
+% Document Root
+<< /Outlines 15 0 R
+ /PageLabels 20 0 R
+ /PageMode /UseNone
+ /Pages 18 0 R
+ /Type /Catalog >>
+endobj
+% 'R14': class PDFInfo 
+14 0 obj
+<< /Author ()
+ /CreationDate (D:20130805151238-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EuroSciPy 2013 Tutorial : A python appetizer) >>
+endobj
+% 'R15': class PDFOutlines 
+15 0 obj
+<< /Count 2
+ /First 16 0 R
+ /Last 17 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 707.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 15 0 R
+ /Title (Contents) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 485.0236
+ 0 ]
+ /Parent 15 0 R
+ /Prev 16 0 R
+ /Title (License) >>
+endobj
+% 'R18': class PDFPages 
+18 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 12 0 R ]
+ /Type /Pages >>
+endobj
+% 'R19': class PDFStream 
+19 0 obj
+% page stream
+<< /Length 5133 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 21.55488 0 Td (EuroSciPy 2013 Tutorial : A python appetizer) Tj T* -21.55488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Materials repository for my EuroSciPy 2013 tutorial : A python appetizer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 9.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (README.rst) Tj /F2 10 Tf (:) Tj T* -9.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (this file) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 9.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (README.pdf) Tj /F2 10 Tf (:) Tj T* -9.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (this file as PDF) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 15.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (intro.rst) Tj /F2 10 Tf (:) Tj T* -15.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (introductory slides \() Tj 0 0 .501961 rg (rendered as HTML on GitHub) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 15.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (intro.pdf) Tj /F2 10 Tf (:) Tj T* -15.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (introductory slides as PDF) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm -8.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (ipython.ipynb) Tj /F2 10 Tf (:) Tj T* 8.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.099127 Tw 12 TL /F1 10 Tf 0 0 0 rg (the IPython notebook introduction to the IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on) Tj T* 0 Tw (nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm -38.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (array_object.ipynb) Tj /F2 10 Tf (:) Tj T* 38.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (numpy part 1 IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm -26.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (operations.ipynb) Tj /F2 10 Tf (:) Tj T* 26.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (numpy part 2 IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (abstract.rst) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (abstract for the tutorial \() Tj 0 0 .501961 rg (rendered as HTML on GitHub) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (abstract.pdf) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (abstract for the tutorial as PDF) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 9.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (intro_src/) Tj /F2 10 Tf (:) Tj T* -9.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (build directory for the introductory slides) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 497.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 27.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (images/) Tj /F2 10 Tf (:) Tj T* -27.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (image files) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Creative Commons Attribution 3.0 United States License \(CC-by\)) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R20': class PDFPageLabels 
+20 0 obj
+% Document Root
+<< /Nums [ 0
+ 21 0 R ] >>
+endobj
+% 'R21': class PDFPageLabel 
+21 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000756 00000 n
+0000001030 00000 n
+0000001313 00000 n
+0000001596 00000 n
+0000001879 00000 n
+0000002162 00000 n
+0000002437 00000 n
+0000002688 00000 n
+0000003039 00000 n
+0000003198 00000 n
+0000003490 00000 n
+0000003615 00000 n
+0000003784 00000 n
+0000003936 00000 n
+0000004044 00000 n
+0000009280 00000 n
+0000009373 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\200\030\257\332\326"\231P\355' \037\003s,\025) (\200\030\257\332\326"\231P\355' \037\003s,\025)] 
+
+ /Info 14 0 R
+ /Root 13 0 R
+ /Size 22 >>
+startxref
+9420
+%%EOF

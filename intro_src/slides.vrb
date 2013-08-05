@@ -1,0 +1,23 @@
+\frametitle {To continue}
+
+\begin{itemize}
+
+\item you are invited to follow next tutorials (beginner's track)
+%
+\begin{quote}
+\begin{itemize}
+
+\item Array Manipulation with Numpy Valentin Haenel
+
+\item Matplotlib tutorial by Nicolas P. Rougier
+
+\item Scipy package tutorial by Philippe Gervais
+\end{itemize}
+
+\end{quote}
+
+\item complete scipy 2013 program is available at \url{https://www.euroscipy.org/schedule/tutorials/}
+\end{itemize}
+
+\vspace{1cm}
+
