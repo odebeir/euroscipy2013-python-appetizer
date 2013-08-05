@@ -1,2 +1,11 @@
 git-sha
 slides.rst.tex
+
+slides.aux
+slides.log
+slides.nav
+slides.out
+slides.pdf
+slides.snm
+slides.toc
+
