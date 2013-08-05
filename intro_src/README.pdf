@@ -1,0 +1,545 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 10 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/rst2beamer/rst2beamer) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 594.7736
+ 139.0429
+ 606.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://blog.hartwork.org/?p=52) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 576.7736
+ 133.4829
+ 588.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://bitbucket.org/rivanvx/beamer/wiki/Home) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 558.7736
+ 152.9429
+ 570.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:odebeir@ulb.ac.be) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 225.4629
+ 459.7736
+ 309.5429
+ 471.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://creativecommons.org/licenses/by-nc-sa/3.0/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 221.7339
+ 441.7736
+ 530.7205
+ 453.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://creativecommons.org/licenses/by-nc-sa/3.0/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 429.7736
+ 102.9229
+ 441.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+10 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R ]
+ /Contents 21 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 20 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 22 0 R
+ /PageMode /UseNone
+ /Pages 20 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20130805164336-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EuroSciPy 2013 Tutorial : A small python appetizer) >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 6
+ /First 15 0 R
+ /Last 17 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Next 16 0 R
+ /Parent 14 0 R
+ /Title (Description) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 654.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
+ /Title (Dependencies) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+17 0 obj
+<< /Count 2
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 549.0236
+ 0 ]
+ /First 18 0 R
+ /Last 19 0 R
+ /Parent 14 0 R
+ /Prev 16 0 R
+ /Title (License) >>
+endobj
+% 'Outline.6.0': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 516.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 17 0 R
+ /Title (Content) >>
+endobj
+% 'Outline.6.1': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 420.0236
+ 0 ]
+ /Parent 17 0 R
+ /Prev 18 0 R
+ /Title (Included Dependencies) >>
+endobj
+% 'R20': class PDFPages 
+20 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R21': class PDFStream 
+21 0 obj
+% page stream
+<< /Length 4376 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 39.88488 0 Td (EuroSciPy 2013 Tutorial : A small python) Tj T* 151.16 0 Td (appetizer) Tj T* -191.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introductory slides for my EuroSciPy 2013 tutorial: A small python appetizer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dependencies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The talk is made with:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (rst2beamer ) Tj 0 0 0 rg (\(included in repository\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (ccBeamer ) Tj 0 0 0 rg (\(included in repository\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (LaTeX Beamer) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All Content is...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Copyright 2013 Olivier Debeir <) Tj 0 0 .501961 rg (odebeir@ulb.ac.be) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.862196 Tw 12 TL /F1 10 Tf 0 0 0 rg (Licensed under the terms of ) Tj 0 0 .501961 rg (Attribution-NonCommercial-ShareAlike 3.0 Unported \(CC BY-NC-SA) Tj T* 0 Tw (3.0\)) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Included Dependencies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following dependencies are shipped with the sources:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (rst2beamer \(file: ) Tj /F3 10 Tf (rst2beamer) Tj /F1 10 Tf (\) is copyright Ryan Krauss and Paul-Michael Agapow) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 11.48282 Tw 12 TL /F1 10 Tf 0 0 0 rg (ccBeamer \(directory: ) Tj /F3 10 Tf (creative_commons/) Tj /F1 10 Tf (\) is licensed under Creative Commons) Tj T* 0 Tw (Attribution-ShareAlike 3.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R22': class PDFPageLabels 
+22 0 obj
+% Document Root
+<< /Nums [ 0
+ 23 0 R ] >>
+endobj
+% 'R23': class PDFPageLabel 
+23 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 24
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000586 00000 n
+0000000844 00000 n
+0000001092 00000 n
+0000001356 00000 n
+0000001598 00000 n
+0000001865 00000 n
+0000002120 00000 n
+0000002280 00000 n
+0000002621 00000 n
+0000002780 00000 n
+0000003078 00000 n
+0000003203 00000 n
+0000003375 00000 n
+0000003563 00000 n
+0000003775 00000 n
+0000003945 00000 n
+0000004111 00000 n
+0000004219 00000 n
+0000008698 00000 n
+0000008791 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\036\024\033\241\247\361j\203\273\023\207C\303\315e\364) (\036\024\033\241\247\361j\203\273\023\207C\303\315e\364)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 24 >>
+startxref
+8838
+%%EOF
