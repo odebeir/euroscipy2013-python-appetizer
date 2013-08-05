@@ -57,9 +57,9 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 426.0253
+ /Rect [ 299.3723
  602.7736
- 525.4836
+ 439.4223
  614.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -72,10 +72,10 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 153.7323
- 590.7736
- 193.7423
- 602.7736 ]
+ /Rect [ 295.4523
+ 572.7736
+ 435.5023
+ 584.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -83,14 +83,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
+ /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 298.8123
- 575.7736
- 438.8623
- 587.7736 ]
+ /Rect [ 259.3323
+ 557.7736
+ 390.4923
+ 569.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -98,63 +98,31 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (file:///home/olivier/workspace/euroscipy2013-python-appetizer/XXX) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 298.8123
- 560.7736
- 438.8623
- 572.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-10 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 259.3323
- 545.7736
- 390.4923
- 557.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER7': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
  /URI (http://creativecommons.org/licenses/by/3.0/us/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 85.69291
- 437.7736
+ 449.7736
  373.5629
- 449.7736 ]
+ 461.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-12 0 obj
+10 0 obj
 % Page dictionary
 << /Annots [ 5 0 R
  6 0 R
  7 0 R
  8 0 R
- 9 0 R
- 10 0 R
- 11 0 R ]
- /Contents 19 0 R
+ 9 0 R ]
+ /Contents 17 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 18 0 R
+ /Parent 16 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -165,65 +133,65 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R13': class PDFCatalog 
-13 0 obj
+% 'R11': class PDFCatalog 
+11 0 obj
 % Document Root
-<< /Outlines 15 0 R
- /PageLabels 20 0 R
+<< /Outlines 13 0 R
+ /PageLabels 18 0 R
  /PageMode /UseNone
- /Pages 18 0 R
+ /Pages 16 0 R
  /Type /Catalog >>
 endobj
-% 'R14': class PDFInfo 
-14 0 obj
+% 'R12': class PDFInfo 
+12 0 obj
 << /Author ()
- /CreationDate (D:20130805151238-01'00')
+ /CreationDate (D:20130805164533-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (EuroSciPy 2013 Tutorial : A python appetizer) >>
 endobj
-% 'R15': class PDFOutlines 
-15 0 obj
+% 'R13': class PDFOutlines 
+13 0 obj
 << /Count 2
- /First 16 0 R
- /Last 17 0 R
+ /First 14 0 R
+ /Last 15 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-16 0 obj
-<< /Dest [ 12 0 R
+14 0 obj
+<< /Dest [ 10 0 R
  /XYZ
  62.69291
  707.0236
  0 ]
- /Next 17 0 R
- /Parent 15 0 R
+ /Next 15 0 R
+ /Parent 13 0 R
  /Title (Contents) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-17 0 obj
-<< /Dest [ 12 0 R
+15 0 obj
+<< /Dest [ 10 0 R
  /XYZ
  62.69291
- 485.0236
+ 497.0236
  0 ]
- /Parent 15 0 R
- /Prev 16 0 R
+ /Parent 13 0 R
+ /Prev 14 0 R
  /Title (License) >>
 endobj
-% 'R18': class PDFPages 
-18 0 obj
+% 'R16': class PDFPages 
+16 0 obj
 % page tree
 << /Count 1
- /Kids [ 12 0 R ]
+ /Kids [ 10 0 R ]
  /Type /Pages >>
 endobj
-% 'R19': class PDFStream 
-19 0 obj
+% 'R17': class PDFStream 
+17 0 obj
 % page stream
-<< /Length 5133 >>
+<< /Length 5009 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -328,64 +296,65 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 587.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-BT 1 0 0 1 0 2 Tm -8.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (ipython.ipynb) Tj /F2 10 Tf (:) Tj T* 8.29063 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 14 Tm 1.099127 Tw 12 TL /F1 10 Tf 0 0 0 rg (the IPython notebook introduction to the IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on) Tj T* 0 Tw (nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 572.0236 cm
+1 0 0 1 62.69291 599.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 2 Tm -38.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (array_object.ipynb) Tj /F2 10 Tf (:) Tj T* 38.29063 0 Td ET
+BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (python.ipynb) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (numpy part 1 IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (introduction to python language \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 584.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 2 Tm -26.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (operations.ipynb) Tj /F2 10 Tf (:) Tj T* 26.29063 0 Td ET
+BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (serial.ipynb) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (numpy part 2 IPython notebook \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (small serial interface acquisition) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 542.0236 cm
+1 0 0 1 62.69291 569.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm -26.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (shakespear.ipynb) Tj /F2 10 Tf (:) Tj T* 26.29063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (example of string manipulation \() Tj 0 0 .501961 rg (rendered as HTML on nbviewer) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -404,7 +373,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 527.0236 cm
+1 0 0 1 62.69291 539.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -424,7 +393,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 512.0236 cm
+1 0 0 1 62.69291 524.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -444,7 +413,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 497.0236 cm
+1 0 0 1 62.69291 509.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -464,19 +433,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 464.0236 cm
+1 0 0 1 62.69291 476.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 452.0236 cm
+1 0 0 1 62.69291 464.0236 cm
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
 Q
 q
 1 0 0 1 62.69291 452.0236 cm
-Q
-q
-1 0 0 1 62.69291 440.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -496,25 +465,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 440.0236 cm
+1 0 0 1 62.69291 452.0236 cm
 Q
  
 endstream
 endobj
-% 'R20': class PDFPageLabels 
-20 0 obj
+% 'R18': class PDFPageLabels 
+18 0 obj
 % Document Root
 << /Nums [ 0
- 21 0 R ] >>
+ 19 0 R ] >>
 endobj
-% 'R21': class PDFPageLabel 
-21 0 obj
+% 'R19': class PDFPageLabel 
+19 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
 xref
-0 22
+0 20
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -524,27 +493,25 @@ xref
 0000001030 00000 n
 0000001313 00000 n
 0000001596 00000 n
-0000001879 00000 n
-0000002162 00000 n
-0000002437 00000 n
-0000002688 00000 n
-0000003039 00000 n
+0000001870 00000 n
+0000002120 00000 n
+0000002453 00000 n
+0000002612 00000 n
+0000002904 00000 n
+0000003029 00000 n
 0000003198 00000 n
-0000003490 00000 n
-0000003615 00000 n
-0000003784 00000 n
-0000003936 00000 n
-0000004044 00000 n
-0000009280 00000 n
-0000009373 00000 n
+0000003350 00000 n
+0000003458 00000 n
+0000008570 00000 n
+0000008663 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\200\030\257\332\326"\231P\355' \037\003s,\025) (\200\030\257\332\326"\231P\355' \037\003s,\025)] 
+ [(\343\240P\334"e\021\)\253\351Va\350\231\322\355) (\343\240P\334"e\021\)\253\351Va\350\231\322\355)] 
 
- /Info 14 0 R
- /Root 13 0 R
- /Size 22 >>
+ /Info 12 0 R
+ /Root 11 0 R
+ /Size 20 >>
 startxref
-9420
+8710
 %%EOF

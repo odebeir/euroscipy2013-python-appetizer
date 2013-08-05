@@ -8,14 +8,12 @@ Contents
 
 :``README.rst``:           this file
 :``README.pdf``:           this file as PDF
-:``intro.rst``:            introductory slides (`rendered as HTML on GitHub
-                           <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
+:``intro.rst``:            introductory slides (`rendered as HTML on GitHub <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
 :``intro.pdf``:            introductory slides as PDF
-:``ipython.ipynb``:        the IPython notebook introduction to the IPython notebook (`rendered as HTML on nbviewer <XXX>`_)
-:``array_object.ipynb``:   numpy part 1 IPython notebook (`rendered as HTML on nbviewer <XXX>`_)
-:``operations.ipynb``:     numpy part 2 IPython notebook (`rendered as HTML on nbviewer <XXX>`_)
-:``abstract.rst``:         abstract for the tutorial (`rendered as HTML on GitHub
-                           <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
+:``python.ipynb``:         introduction to python language (`rendered as HTML on nbviewer <XXX>`_)
+:``serial.ipynb``:         small serial interface acquisition 
+:``shakespear.ipynb``:     example of string manipulation (`rendered as HTML on nbviewer <XXX>`_)
+:``abstract.rst``:         abstract for the tutorial (`rendered as HTML on GitHub <http://github.com/odebeir/euroscipy2013-python-appetizer>`_)
 :``abstract.pdf``:         abstract for the tutorial as PDF
 :``intro_src/``:           build directory for the introductory slides
 :``images/``:              image files
