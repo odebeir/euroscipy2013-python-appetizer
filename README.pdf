@@ -38,14 +38,14 @@ endobj
 5 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
+ /URI (http://creativecommons.org/licenses/by/3.0/us/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 240.4223
- 632.7736
- 371.5823
- 644.7736 ]
+ /Rect [ 85.69291
+ 479.7736
+ 373.5629
+ 491.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -53,38 +53,22 @@ endobj
 6 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://github.com/odebeir/euroscipy2013-python-appetizer) >>
+ /URI (https://github.com/odebeir/clicker_server.git) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 259.3323
- 542.7736
- 390.4923
- 554.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER3': class PDFDictionary 
-7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://creativecommons.org/licenses/by/3.0/us/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 85.69291
- 434.7736
- 373.5629
- 446.7736 ]
+ /Rect [ 331.7229
+ 431.7736
+ 524.5729
+ 443.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-8 0 obj
+7 0 obj
 % Page dictionary
 << /Annots [ 5 0 R
- 6 0 R
- 7 0 R ]
+ 6 0 R ]
  /Contents 15 0 R
  /MediaBox [ 0
  0
@@ -101,65 +85,77 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R9': class PDFCatalog 
-9 0 obj
+% 'R8': class PDFCatalog 
+8 0 obj
 % Document Root
-<< /Outlines 11 0 R
+<< /Outlines 10 0 R
  /PageLabels 16 0 R
  /PageMode /UseNone
  /Pages 14 0 R
  /Type /Catalog >>
 endobj
-% 'R10': class PDFInfo 
-10 0 obj
+% 'R9': class PDFInfo 
+9 0 obj
 << /Author ()
- /CreationDate (D:20130805170258-01'00')
+ /CreationDate (D:20130806103229-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (EuroSciPy 2013 Tutorial : A python appetizer) >>
 endobj
-% 'R11': class PDFOutlines 
-11 0 obj
-<< /Count 2
- /First 12 0 R
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 3
+ /First 11 0 R
  /Last 13 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-12 0 obj
-<< /Dest [ 8 0 R
+11 0 obj
+<< /Dest [ 7 0 R
  /XYZ
  62.69291
  707.0236
  0 ]
- /Next 13 0 R
- /Parent 11 0 R
+ /Next 12 0 R
+ /Parent 10 0 R
  /Title (Contents) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-13 0 obj
-<< /Dest [ 8 0 R
+12 0 obj
+<< /Dest [ 7 0 R
  /XYZ
  62.69291
- 482.0236
+ 527.0236
  0 ]
- /Parent 11 0 R
- /Prev 12 0 R
+ /Next 13 0 R
+ /Parent 10 0 R
+ /Prev 11 0 R
  /Title (License) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 470.0236
+ 0 ]
+ /Parent 10 0 R
+ /Prev 12 0 R
+ /Title (Accessories) >>
 endobj
 % 'R14': class PDFPages 
 14 0 obj
 % page tree
 << /Count 1
- /Kids [ 8 0 R ]
+ /Kids [ 7 0 R ]
  /Type /Pages >>
 endobj
 % 'R15': class PDFStream 
 15 0 obj
 % page stream
-<< /Length 5209 >>
+<< /Length 4404 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -237,7 +233,8 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (introductory slides \() Tj 0 0 .501961 rg (rendered as HTML on GitHub) Tj 0 0 0 rg (\)) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (introductory slides) Tj T* ET
 Q
 Q
 q
@@ -270,14 +267,14 @@ BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 2 Tm 3.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (intro.ipynb) Tj /F2 10 Tf (:) Tj T* -3.70937 0 Td ET
+BT 1 0 0 1 0 2 Tm 9.70937 0 Td 12 TL /F3 10 Tf 0 0 0 rg (notebooks/) Tj /F2 10 Tf (:) Tj T* -9.70937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (general introduction \(small quiz\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (notebooks used as support for the tutorial) Tj T* ET
 Q
 Q
 q
@@ -290,14 +287,14 @@ BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (python.ipynb) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
+BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (abstract.rst) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (introduction to python language) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (abstract for the tutorial) Tj T* ET
 Q
 Q
 q
@@ -305,65 +302,6 @@ Q
 Q
 q
 1 0 0 1 62.69291 569.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (serial.ipynb) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (small serial interface acquisition) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 554.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-BT 1 0 0 1 0 2 Tm -8.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (shakesp.ipynb) Tj /F2 10 Tf (:) Tj T* 8.29063 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (example of string manipulation) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 539.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-BT 1 0 0 1 0 2 Tm -2.29063 0 Td 12 TL /F3 10 Tf 0 0 0 rg (abstract.rst) Tj /F2 10 Tf (:) Tj T* 2.29063 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (abstract for the tutorial \() Tj 0 0 .501961 rg (rendered as HTML on GitHub) Tj 0 0 0 rg (\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 524.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -383,7 +321,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 509.0236 cm
+1 0 0 1 62.69291 554.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -403,7 +341,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 494.0236 cm
+1 0 0 1 62.69291 539.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -423,19 +361,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 461.0236 cm
+1 0 0 1 62.69291 506.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 449.0236 cm
+1 0 0 1 62.69291 494.0236 cm
 Q
 q
-1 0 0 1 62.69291 449.0236 cm
+1 0 0 1 62.69291 494.0236 cm
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 62.69291 482.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -455,7 +393,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Accessories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The clicker tool used during presentation can be found here: ) Tj 0 0 .501961 rg (https://github.com/odebeir/clicker_server.git) Tj T* ET
+Q
 Q
  
 endstream
@@ -480,26 +430,26 @@ xref
 0000000398 00000 n
 0000000573 00000 n
 0000000756 00000 n
-0000001030 00000 n
-0000001304 00000 n
-0000001554 00000 n
-0000001869 00000 n
-0000002027 00000 n
-0000002319 00000 n
-0000002444 00000 n
-0000002612 00000 n
-0000002763 00000 n
-0000002870 00000 n
-0000008182 00000 n
-0000008275 00000 n
+0000001020 00000 n
+0000001269 00000 n
+0000001576 00000 n
+0000001733 00000 n
+0000002024 00000 n
+0000002149 00000 n
+0000002317 00000 n
+0000002499 00000 n
+0000002654 00000 n
+0000002761 00000 n
+0000007268 00000 n
+0000007361 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(G\232\326A\244\300\372c\337q\241\266\0326\036\267) (G\232\326A\244\300\372c\337q\241\266\0326\036\267)] 
+ [(\246\211\375\3656\3038p\010\2423p4G\337f) (\246\211\375\3656\3038p\010\2423p4G\337f)] 
 
- /Info 10 0 R
- /Root 9 0 R
+ /Info 9 0 R
+ /Root 8 0 R
  /Size 18 >>
 startxref
-8322
+7408
 %%EOF
