@@ -2,7 +2,7 @@
 #this computer should then be runing the clicker_server
 #if clicker_nb_tools is not present, switch to non presenter mode
 
-presenter_version = False
+presenter_version = True
 
 try:
     from clicker_nb_tools import ask
