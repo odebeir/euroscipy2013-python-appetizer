@@ -41,6 +41,7 @@ About The Speaker
 * `Olivier Debeir <http://lisa.ulb.ac.be>`_ from Brussels, Belgium
 * image processing professor at the Université Libre de Bruxelles
 * main research interest topics are biomedical image processing and pattern recognition
+* not a python ninja but rather a **Python enthousiast**
 
 Outline of this tutorial
 -------------------------
